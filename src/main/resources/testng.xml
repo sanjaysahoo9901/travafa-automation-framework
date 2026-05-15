@@ -1,0 +1,14 @@
+<suite name="TravafaSuite">
+
+    <test name="Hotel Booking Tests">
+        <classes>
+            <class name="tests.TravafaHotelTest"/>
+        </classes>
+    </test>
+
+
+
+    <!-- ADD THIS BLOCK -->
+
+
+</suite>
